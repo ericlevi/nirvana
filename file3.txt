@@ -1,1 +1,2 @@
-this is a file 3 to learn
+this is a file 3 to learn 
+read me 
